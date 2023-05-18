@@ -10,35 +10,35 @@ Powered by MongoDB, the app securely stores task-related data, ensuring reliabil
 4.it carries out CRUD operations.
 
 ## Technologies Used
-1.MongoDB: A flexible and scalable NoSQL database for storing task-related data.
-2.Express.js: A backend framework for handling server-side operations and API development.
-3.React.js: A popular frontend library for building dynamic and interactive user interfaces.
-4.Node.js: A JavaScript runtime environment used for server-side scripting and integration.
+1. MongoDB: A flexible and scalable NoSQL database for storing task-related data.
+2. Express.js: A backend framework for handling server-side operations and API development.
+3. React.js: A popular frontend library for building dynamic and interactive user interfaces.
+4. Node.js: A JavaScript runtime environment used for server-side scripting and integration.
 
 ## Installation
 Clone the repository:
 
-1.git clone (https://github.com/your-username/mern-todo-app.git)
+1. git clone (https://github.com/XTmatrix/TO-DO-App-MERN.git)
 Navigate to the project directory:
 
-2.cd backend
+2. cd backend
 Install the dependencies for the Backend Directory:
 
-3.cd frontend
+3. cd frontend
 npm install
 Install the dependencies for the Frontend Directory:
 
-4.cd ../frontend
+4. cd ../frontend
 npm install
 Create a .env file in the server directory and provide the required environment variables. For example:
 PORT=5000
 MONGODB_URI=mongodb://localhost/todo-app
 Start the backend and frontend:
 
-5.In the backend directory, run:
+5. In the backend directory, run:
 npm start
 
-6.In the frontend directory, run:
+6. In the frontend directory, run:
 npm start
 Access the app in your web browser at http://localhost:3000.
 
